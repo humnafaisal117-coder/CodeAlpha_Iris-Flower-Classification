@@ -1,11 +1,11 @@
 # CodeAlpha_Iris-Flower-Classification
 # Iris Flower Classification
 
-## Project Overview
+**Project Overview**
 
 This project focuses on building a supervised machine learning model to classify Iris flowers into three species — Setosa, Versicolor, and Virginica — using sepal and petal measurements. The main objective of this project is to understand and implement the complete machine learning workflow, from data analysis to model evaluation.
 
-## 📊 Dataset Description
+**📊 Dataset Description**
 
 The dataset contains 150 samples of Iris flowers with the following features:
 
@@ -21,7 +21,7 @@ The dataset contains 150 samples of Iris flowers with the following features:
 
 Each species has 50 samples, making the dataset balanced and suitable for classification tasks. The dataset file (Iris.csv) is included in this repository.
 
-## 🔎 Exploratory Data Analysis (EDA)
+**🔎 Exploratory Data Analysis (EDA)**
 
 To better understand the dataset, I performed basic visualizations:
 
@@ -31,7 +31,7 @@ To better understand the dataset, I performed basic visualizations:
 
 The visualizations show that Iris Setosa is clearly separated from the other species, while Versicolor and Virginica show slight overlap.
 
-## 🛠️ Technologies & Libraries Used
+**🛠️ Technologies & Libraries Used**
 
 * Python
   
@@ -45,7 +45,7 @@ The visualizations show that Iris Setosa is clearly separated from the other spe
   
 * Scikit-learn
 
-## 🤖 Machine Learning Models Implemented
+**🤖 Machine Learning Models Implemented**
 
 The following classification models were trained and evaluated:
 
@@ -57,7 +57,7 @@ The following classification models were trained and evaluated:
 
 The dataset was split into training and testing sets (80% training, 20% testing) to evaluate model performance.
 
-## 📈 Model Evaluation
+**📈 Model Evaluation**
 
 Model performance was evaluated using:
 
@@ -69,7 +69,7 @@ Model performance was evaluated using:
 
 All models achieved high accuracy on the test dataset. Among them, the Random Forest model achieved the best overall performance.
 
-## 📁 Project Structure
+**📁 Project Structure**
 
 Iris-Flower-Classification/
 
@@ -79,7 +79,7 @@ Iris-Flower-Classification/
 
 │── README.md
 
-## 🚀 How to Run the Project
+**🚀 How to Run the Project**
 
 1. Clone or download this repository.
    
@@ -89,6 +89,6 @@ Iris-Flower-Classification/
    
 6. Run all cells step by step to see the results.
 
-## ✅ Conclusion
+**✅ Conclusion**
 
 This project demonstrates how machine learning can be used to classify flower species based on numerical feature data. Through this project, I gained practical experience in data visualization, preprocessing, model training, and performance evaluation. It strengthened my understanding of supervised learning and classification techniques in a structured and hands-on manner.
